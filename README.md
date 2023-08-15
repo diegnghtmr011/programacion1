@@ -1,6 +1,6 @@
 # programacion1
 
-This repository contains the code created during the second semester of computer science engineering in the subject of Programming I. **The code is written in Java and does not seek to be impeccable, as it is a beginning.**
+This repository contains the code created during the second semester of Systems and Computer Engineering in the subject of Programming I. **The code is written in Java and does not seek to be impeccable, as it is a beginning.**
 
 ## The code is organized into the following folders:
 
