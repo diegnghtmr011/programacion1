@@ -5,6 +5,7 @@ This repository contains the code created during the second semester of computer
 ## The code is organized into the following folders:
 
 **Exercises:** This folder contains the exercises done during the course.
+
 **Projects:** This folder contains the final projects of the course. The code is documented with comments to make it easier to understand.
 
 If you have any questions about the code, please do not hesitate to contact me.
