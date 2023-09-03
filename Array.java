@@ -17,7 +17,7 @@ public class Array {
     public int asignarTamanioArray(){
         // Solicita al usuario que ingrese el tamaño del array.
         Scanner sc = new Scanner(System.in);
-        System.out.println("ingrese el tamaño del array");
+        System.out.println("ingrese el tamaño del array: ");
         int tamanio = sc.nextInt();
         return tamanio;
         
@@ -28,7 +28,7 @@ public class Array {
         arreglo = new int[tamanio];
         Scanner sc = new Scanner(System.in);
         for(int i=0; i<arreglo.length;i++){
-            System.out.println("Ingrese el elemento" +  i + "de la lista que tiene un tamaño de" + tamanio);
+            System.out.println("Ingrese el elemento " +  i + " de la lista que tiene un tamaño de " + tamanio);
             int numero = sc.nextInt();
             arreglo[i] = numero;
         }
